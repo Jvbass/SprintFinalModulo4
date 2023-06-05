@@ -31,9 +31,9 @@ Tema: Programación Orientada a Objetos
   - Listar Capacitaciones: Muestra una lista con todas las capacitaciones almacenadas
 
 ## :notebook:Guia de uso
-Para usar este proyecto recomendamos tener instalada la versiona de Java 17.0.6, pare verificar cual version tienes instalada abre tu consola de comandos preferida e ingresa "java -version". Ademas recomendamos instalar el IDE Eclipse para importar el proyecto y utilizarlo. En esta guia se utliza el IDE Eclipse, si bien la mayoria tienen funcionalidades parecidas la interfaz de usuario puede ser diferente.
+Para usar este proyecto recomendamos tener instalada la version de Java 17.0.6, pare verificar cual version tienes instalada abre tu consola de comandos preferida e ingresa "java -version". Ademas recomendamos instalar el IDE Eclipse para importar el proyecto y utilizarlo. En esta guia se utliza el IDE Eclipse, si bien la mayoria tienen funcionalidades parecidas la interfaz de usuario puede ser diferente.
 
-1. Clona o descarga el zip del proyecto desde Githu
+1. Clona o descarga el zip del proyecto desde Github
 	- Guardalo en una carpeta, si descargaste el zip descomprimelo
 	
 2. Importa el proyecto en Eclipse
@@ -44,6 +44,11 @@ Para usar este proyecto recomendamos tener instalada la versiona de Java 17.0.6,
 3. En la pantalla principal de Eclipse al costado izquierdo se podra ver el proyecto con su nombre SprintModulo4
 	- Haz click en la flecha al costado de la carpeta para que se desplieguen sus subcarpetas
 	- Ve a la subcarpeta src y luego abre el package sprintModuleFour, dentro se encuentra la clase Main que es el punto de entrada del sistema.
+	- Abre la clase Main.java
+
+4. Para correr el proyecto
+	- Haz click derecho en cualquier parte de la clase Main.java y dirigete a "Run As -> Java Aplication
+	- Se abrira una consola donde podras ver el Menu Principal, ingresa una opcion y presiona enter
 		
 ## :mag:Datos de prueba 
 -	Datos para cargar informacion en el sistema. Ingresa 3 usuarios de cada tipo y 3 capacitaciones.
