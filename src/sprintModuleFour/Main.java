@@ -26,7 +26,9 @@ public class Main {
         Professional professional;
         Administrative administrative;
         Scanner sc = new Scanner(System.in);
-       
+               
+     
+        
 /**
 * 
 * Bucle do-while que es el punto de inicio del programa, muestra el menu y realiza las operaciones seleccionadas por el usuario.

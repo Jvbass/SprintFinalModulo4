@@ -35,8 +35,7 @@ public class Customer extends User {
      * @param address Dirección del cliente.
      * @param comuna Comuna del cliente.
      */
-    public Customer(String names, String lastNames, String birthDate, int rut, String phone, String afp,
-                    int healthcareSystem, String address, String comuna) {
+    public Customer(String names, String lastNames, String birthDate, int rut, String phone, String afp, int healthcareSystem, String address, String comuna) {
         super(names, lastNames, birthDate, rut);
         this.phone = phone;
         this.afp = afp;
@@ -60,9 +59,7 @@ public class Customer extends User {
      * @param listAccident Lista de accidentes del cliente.
      * @param listFieldVisit Lista de visitas de campo del cliente.
      */
-    public Customer(String names, String lastNames, String birthDate, int rut, String phone, String afp,
-                    int healthcareSystem, String address, String comuna, List<Training> listTraining,
-                    List<Accident> listAccident, List<FieldVisit> listFieldVisit) {
+    public Customer(String names, String lastNames, String birthDate, int rut, String phone, String afp, int healthcareSystem, String address, String comuna, List<Training> listTraining, List<Accident> listAccident, List<FieldVisit> listFieldVisit) {
         super(names, lastNames, birthDate, rut);
         this.phone = phone;
         this.afp = afp;
