@@ -1,7 +1,9 @@
 # Ejercicio final modulo 4 Java SE-17
 Tema: Programación Orientada a Objetos
-### Integrantes:  Juan Pino C. , Jorge Moraga C. , Harold Klapp
-
+### Integrantes:
++ Juan Pino C. :octocat:https://github.com/Jvbass/SprintFinalModulo4
++ Jorge Moraga C. :octocat:https://github.com/JorgeMoragaCalvo
++ Harold Klapp :octocat:https://github.com/HaroldKlapp
 ## :bulb:Descripcion 
   Proyecto para dar solucion a una empresa ficticia que se dedica a la asesoria en prevencion de riesgos. Este sistema permite al usuario planificar y almacenar capacitaciones, guardar usuarios de diferentes tipos con datos especificos por cada tipo de usuario, mostrar listas de usuarios y capacitaciones y borrar usuarios segun su rut.
 
