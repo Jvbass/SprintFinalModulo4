@@ -53,7 +53,8 @@ Para usar este proyecto recomendamos tener instalada la version de Java 17.0.6, 
 ## :mag:Datos de prueba 
 -	Datos para cargar informacion en el sistema. Ingresa 3 usuarios de cada tipo y 3 capacitaciones.
 
-	- :construction:Importante:construction:
+	- :construction:**Importante**:construction:
+		
 	**Ingresa estos datos en la linea 30, despues crear las variables y objetos**
 	
 	    ```
